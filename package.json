@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilpereira/nodejs-angular.git"
+  },
+  "author": "William Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilpereira/nodejs-angular/issues"
+  },
+  "homepage": "https://github.com/wilpereira/nodejs-angular#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.12",
+    "path": "^0.12.7"
+  },
+  "type": "module"
+}
